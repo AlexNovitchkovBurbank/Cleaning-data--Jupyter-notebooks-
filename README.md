@@ -1,1 +1,1 @@
-Read in excel data into data frame, removed duplicates, dropped columns, removed whitespace, replaced string values, used lambda expressions, used loc, split columns, used if and for statements.
+Read in excel data into data frame, removed duplicates, dropped columns, removed whitespace, replaced string values, used lambda expressions, used loc, split columns, used if and for statements. Data from https://github.com/AlexTheAnalyst/PandasYouTubeSeries/blob/main/Customer%20Call%20List.xlsx
